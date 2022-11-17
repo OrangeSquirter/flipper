@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Proz
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 1A 00 00 00
